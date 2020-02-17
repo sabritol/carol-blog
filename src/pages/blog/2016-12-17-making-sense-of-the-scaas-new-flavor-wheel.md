@@ -1,33 +1,32 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: ALINEACIÓN POSTURAL
 date: 2016-12-17T15:04:10.000Z
-featuredpost: false
+description: >-
+  Cuando empiezas a hacer yoga, pilates, calistenia o cualquier actividad que te
+  requiera mucha atención, es básico aprender a usar el cuerpo, cómo ejecutar
+  sus distintas fuerzas, o cómo ubicarlo y acomodarlo para no lesionarnos. 
+featuredpost: true
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
-  - flavor
-  - tasting
+  - alineación postural
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![alineación postural ](/img/flavor_wheel.jpg "ALINEACIÓN POSTURAL")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Para empezar, debes conocer tu cuerpo porque no todas las posturas y movimientos son iguales para todos. Claramente yo desde acá no puedo explicarte en lo particular cómo tendrías que hacerlo, pero si puedo darte algunos consejos básicos para que tú vayas descubriéndolo por tí misma.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Vamos a ir por parte, en posición de sentado:
 
-## What the updates mean to you
+1-Sé consciente del ancho de tus hombros y caderas para partir de cualquier movimiento. Por ejemplo, si te encuentras sentada, observa que tus hombros estén lo más alineados posibles entre sí. Claro que puede existir alguna desviación y que un hombro esté más arriba que el otro; registra si es tu caso y de a poco acomoda tus hombros lo más simétricos que puedas
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+2-Lo mismo con tu cadera, identifica si apoyas más el peso del cuerpo sobre el lado derecho o izquierdo e intenta que el peso esté igual en ambos lados. Esto te ayudará a acomodar tu cadera
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+3-El peso del cuerpo debe estar hacia atrás, llevando la parte baja del abdomen hacia adentro y disminuyendo la curvatura lumbar
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+4-Ambos pies paralelos, espalda recta, mentón paralelo al piso
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Encuéntrate en esta postura por un momento, y sin tensionar de más, ve registrando cada parte que fui mencionando.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Luego al pasar a la siguiente postura, de a poco sigue reconociendo estos principios y verás que dispones de más amplitud de tu corporalidad y es más fácil acomodarla.
+
+Practícalo cada vez que te acuerdes y luego me cuentas. Si hay dudas, házmelas saber así me ayudas a ser más específica al explicar.
