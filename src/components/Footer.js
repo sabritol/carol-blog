@@ -36,7 +36,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                      Meeting
                       </Link>
                     </li>
                     <li>
@@ -74,14 +74,14 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                <a title="facebook" href="https://www.facebook.com/CaroYoga-183518078972158/">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" href="https://twitter.com/CaroSambado">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -89,7 +89,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://www.instagram.com/carosolyogapilates/?hl=es">
                   <img
                     src={instagram}
                     alt="Instagram"
