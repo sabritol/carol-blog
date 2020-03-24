@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: 'bla blA BLA '
 ---
-![](/img/carolina.jpg)
+![](/img/carolina1.jpg)
 
 ### Misión
 
